@@ -1,0 +1,4 @@
+In this problem we need to do the routing using one of the hosts.
+First we need to connect two bridges using a link.
+Then we assign IP to these new interfaces.
+At the end we should enable IP forwarding on the node acting as the router.

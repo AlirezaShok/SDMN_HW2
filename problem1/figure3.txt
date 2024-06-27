@@ -1,0 +1,3 @@
+We need to create a VXLAN or GRE tunnel between the two servers, treating the tunnel endpoints as bridge ports on each side.
+First we should verify the VXLAN or GRE tunnel is up and operational.
+Then each server should route packets to the correct subnet via the tunnel interface.
